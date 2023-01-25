@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{924E3DC6-186C-5B58-E986-B7AC696920B4}</ProjectGuid>
+    <ProjectGuid>{19459702-41FC-7EF6-E133-073E7ACCF09B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,7 +58,6 @@
   <ItemGroup>
     <Compile Include="Assets\Other\MainMenu.cs" />
     <Compile Include="Assets\Other\OptionsMenu.cs" />
-    <Compile Include="Assets\Scripts\MoveWithMouse.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
